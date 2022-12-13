@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "sdkconfig.h": "c",
+        "numbers": "c"
+    },
+    "idf.adapterTargetName": "esp32"
+}
